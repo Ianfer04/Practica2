@@ -1,0 +1,2 @@
+Este proyecto consiste en un servidor básico desarrollado con Node.js, que responde con un sencillo "Hola Mundo". Es ideal para iniciarse en el desarrollo backend con Node, comprender el funcionamiento del módulo http y comprobar tu entorno local.
+Solo tienes que ejecutar el comando node app.js (o el nombre del archivo correspondiente) y acceder a http://127.0.0.1:3000/
